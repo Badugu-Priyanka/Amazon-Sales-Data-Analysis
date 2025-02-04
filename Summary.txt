@@ -1,0 +1,18 @@
+Analysis
+1.Product Analysis
+->There are 6 unique product lines.
+->Food and beverages product line has the highest sales.
+->Food and beverages product line generated the highest revenue.
+->Health and beauty product line is most frequently associated with male and Fashion accessories product line is most frequently associated with female.
+2.Sales Analysis
+->In January, cost of goods sold reaches peak.
+->Naypyitaw city was the highest revenue recorded.
+->Member customer type is contributing the highest revenue.
+3.Customer Analysis
+->There are 2 customer types which are member and normal.
+->Member customer occurs most frequently.
+->Female gender is the predominent gender among customers.
+->Afternoon time customers provide most ratings.
+->On Monday customers give highest average ratings.
+
+
